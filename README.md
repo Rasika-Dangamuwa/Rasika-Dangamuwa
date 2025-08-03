@@ -98,12 +98,10 @@ I'm a passionate **Full Stack Developer** who believes in writing clean, efficie
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasika-Dangamuwa&repo=project-name-1&theme=tokyonight)](https://github.com/Rasika-Dangamuwa/project-name-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasika-Dangamuwa&repo=project-name-2&theme=tokyonight)](https://github.com/Rasika-Dangamuwa/project-name-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasika-Dangamuwa&repo=SPD-Hub-V2&theme=tokyonight)](https://github.com/Rasika-Dangamuwa/SPD-Hub-V2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasika-Dangamuwa&repo=Hotel-Bill-Tracker&theme=tokyonight)](https://github.com/Rasika-Dangamuwa/Hotel-Bill-Tracker)
 
 </div>
-
-> **Note:** Replace `SPD-Hub-V2` and `Hotel-Bill-Tracker` with your actual repository names
 
 ---
 

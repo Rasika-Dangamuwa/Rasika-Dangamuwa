@@ -105,17 +105,15 @@ I'm a passionate **Full Stack Developer** who believes in writing clean, efficie
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rasika-Dangamuwa&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://ghchart.rshah.org/2e9bf7/Rasika-Dangamuwa" alt="GitHub Contributions Chart" width="80%" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rasika-Dangamuwa/Rasika-Dangamuwa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rasika-Dangamuwa/Rasika-Dangamuwa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rasika-Dangamuwa/Rasika-Dangamuwa/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasika-Dangamuwa&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
 
 ---
 

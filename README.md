@@ -103,7 +103,7 @@ I'm a passionate **Full Stack Developer** who believes in writing clean, efficie
 
 </div>
 
-> **Note:** Replace `project-name-1` and `project-name-2` with your actual repository names
+> **Note:** Replace `SPD-Hub-V2` and `Hotel-Bill-Tracker` with your actual repository names
 
 ---
 

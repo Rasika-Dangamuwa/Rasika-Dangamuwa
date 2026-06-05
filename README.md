@@ -77,7 +77,7 @@ I'm a passionate **Full Stack Developer** who believes in writing clean, efficie
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=Rasika-Dangamuwa&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Rasika-Dangamuwa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -89,7 +89,7 @@ I'm a passionate **Full Stack Developer** who believes in writing clean, efficie
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rasika-Dangamuwa&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=Rasika-Dangamuwa&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
 ---

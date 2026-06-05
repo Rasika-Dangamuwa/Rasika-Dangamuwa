@@ -72,12 +72,12 @@ I'm a passionate **Full Stack Developer** who believes in writing clean, efficie
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rasika-Dangamuwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika-Dangamuwa&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rasika-Dangamuwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rasika-Dangamuwa&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasika-Dangamuwa&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Rasika-Dangamuwa&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -98,8 +98,8 @@ I'm a passionate **Full Stack Developer** who believes in writing clean, efficie
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasika-Dangamuwa&repo=SPD-Hub-V2&theme=tokyonight)](https://github.com/Rasika-Dangamuwa/SPD-Hub-V2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rasika-Dangamuwa&repo=Hotel-Bill-Tracker&theme=tokyonight)](https://github.com/Rasika-Dangamuwa/Hotel-Bill-Tracker)
+[![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rasika-Dangamuwa&repo=SPD-Hub-V2&theme=tokyonight)](https://github.com/Rasika-Dangamuwa/SPD-Hub-V2)
+[![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rasika-Dangamuwa&repo=Hotel-Bill-Tracker&theme=tokyonight)](https://github.com/Rasika-Dangamuwa/Hotel-Bill-Tracker)
 
 </div>
 
@@ -160,7 +160,7 @@ const rasika = {
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizhontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
